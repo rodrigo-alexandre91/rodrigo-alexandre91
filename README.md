@@ -1,14 +1,15 @@
 ## Oi me chamo Rodrigo Alexandre, e estou me aperfeiçoando em desenvolvimento Frontend...
 
- 
- <h3> 📚 Github Stats: <br></h3>
+<h3> 📚 Github Stats: <br></h3>
   
 <div>
   <a href="[https://github.com/rodrigo-alexandre91](https://github.com/rodrigo-alexandre91)"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-alexandre91&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-alexandre91&layout=compact&langs_count=16&theme=merko"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigo-alexandre91&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-alexandre91&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
- 
+<br>
+  
+
 <br>
   
 <div align="center" style="display: inline_block">
