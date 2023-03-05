@@ -31,8 +31,12 @@
   
   <a href="https://www.linkedin.com/in/rodrigo-alexandre-da-silva-884a981a5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
+
   
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/rodrigo-alexandre91/count.svg" /></p>
 
-![snake gif](https://github.com/rodrigo-alexandre91/rodrigo-alexandre91/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/rodrigo-alexandre91/rodrigo-alexandre91/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+ 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rodrigo-alexandre91&repo=rodrigo-alexandre91&theme=react)](https://github.com/rodrigo-alexandre91/rodrigo-alexandre91)
