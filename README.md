@@ -34,7 +34,5 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/rodrigo-alexandre91/rodrigo-alexandre91/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
   
